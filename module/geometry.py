@@ -2,7 +2,7 @@ from module.clear import clear
 from utils.geometry import *
 from utils.interface import geometry_interface
 
-def bangun_ruang():
+def geometry():
     clear()
     while True:
         try:
